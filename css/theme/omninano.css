@@ -82,7 +82,10 @@ body {
 
 .reveal .caption {
   font-size: 0.6em;
+}
 
+.reveal .key-terms {
+  font-size: 0.8em;
 }
 
 /* Ensure certain elements are never larger than the slide itself */
